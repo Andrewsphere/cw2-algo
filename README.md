@@ -1,0 +1,15 @@
+Seq 11662
+Par 3546
+Seq 5950
+Par 2916
+Seq 9065
+Par 2908
+Seq 10774
+Par 3146
+Seq 8685
+Par 2837
+Seq 10830
+Par 2956
+Seq avg: 9060, Par avg: 2952
+Ratio is 3.0687529634898056
+Ratio is 3.0687529634898056
